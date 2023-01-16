@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\wiladeisFunqciebi\wiladeisFunqciebi\bin\Debug\net6.0\wiladeisFunqciebi.exe
+C:\Users\user\source\repos\wiladeisFunqciebi\wiladeisFunqciebi\bin\Debug\net6.0\wiladeisFunqciebi.deps.json
+C:\Users\user\source\repos\wiladeisFunqciebi\wiladeisFunqciebi\bin\Debug\net6.0\wiladeisFunqciebi.runtimeconfig.json
+C:\Users\user\source\repos\wiladeisFunqciebi\wiladeisFunqciebi\bin\Debug\net6.0\wiladeisFunqciebi.dll
+C:\Users\user\source\repos\wiladeisFunqciebi\wiladeisFunqciebi\bin\Debug\net6.0\wiladeisFunqciebi.pdb
+C:\Users\user\source\repos\wiladeisFunqciebi\wiladeisFunqciebi\obj\Debug\net6.0\wiladeisFunqciebi.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\wiladeisFunqciebi\wiladeisFunqciebi\obj\Debug\net6.0\wiladeisFunqciebi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\wiladeisFunqciebi\wiladeisFunqciebi\obj\Debug\net6.0\wiladeisFunqciebi.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\wiladeisFunqciebi\wiladeisFunqciebi\obj\Debug\net6.0\wiladeisFunqciebi.AssemblyInfo.cs
+C:\Users\user\source\repos\wiladeisFunqciebi\wiladeisFunqciebi\obj\Debug\net6.0\wiladeisFunqciebi.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\wiladeisFunqciebi\wiladeisFunqciebi\obj\Debug\net6.0\wiladeisFunqciebi.dll
+C:\Users\user\source\repos\wiladeisFunqciebi\wiladeisFunqciebi\obj\Debug\net6.0\refint\wiladeisFunqciebi.dll
+C:\Users\user\source\repos\wiladeisFunqciebi\wiladeisFunqciebi\obj\Debug\net6.0\wiladeisFunqciebi.pdb
+C:\Users\user\source\repos\wiladeisFunqciebi\wiladeisFunqciebi\obj\Debug\net6.0\wiladeisFunqciebi.genruntimeconfig.cache
+C:\Users\user\source\repos\wiladeisFunqciebi\wiladeisFunqciebi\obj\Debug\net6.0\ref\wiladeisFunqciebi.dll
